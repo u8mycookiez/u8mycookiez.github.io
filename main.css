@@ -3,3 +3,12 @@ head h1 {
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
 }
+.oz .pic {
+  width: 1fr;
+  height: 200px;
+  justify-content: 
+}
+.superman .pic {
+  width: 1fr;
+  height: 200px;
+}
