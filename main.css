@@ -1,14 +1,16 @@
-h1 {
+//Font for top is Oswald
+head {
   font-size: 36px;
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
 }
-.oz .pic {
+.oz {
   width: 1fr;
   height: 200px;
-  justify-content: 
+  justify-content: space;
 }
-.superman .pic {
+.superman {
   width: 1fr;
   height: 200px;
+  justify-content: space;
 }
