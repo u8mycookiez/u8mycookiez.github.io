@@ -1,9 +1,9 @@
 html {
   font-family: 'Oswald', sans-serif;
 }
-head h1 {
+.top {
   font-size: 60;
 }
-head {
+.top {
   background-color: yellow;
 }
