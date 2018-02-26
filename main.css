@@ -7,5 +7,5 @@ head h1 {
 head {
   background-color: yellow;
   justify-content: space-around;
-  border: 5px green dotted;
+  border: 5 green dotted;
 }
