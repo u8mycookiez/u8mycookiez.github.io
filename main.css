@@ -6,4 +6,5 @@ head h1 {
 }
 head {
   background-color: yellow;
+  justify-self: space-around;
 }
