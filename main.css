@@ -3,6 +3,7 @@ html {
 }
 .top {
   font-size: 60;
+  border: white 5px normal;
 }
 .top {
   background-color: yellow;
