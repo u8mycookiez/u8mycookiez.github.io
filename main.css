@@ -1,7 +1,7 @@
 html {
   font-family: 'Oswald', sans-serif;
 }
-head {
+head.top {
   align-self: center;
   background-color: #f6ff59;
   justify-content: center;
