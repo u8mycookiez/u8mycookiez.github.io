@@ -1,7 +1,6 @@
 html {
   font-family: 'Oswald', sans-serif;
 }
-.top h1 {
-  font-size: 60;
-  border: yellow 5px normal;
+head {
+  align-self: center;
 }
