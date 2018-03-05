@@ -1,9 +1,9 @@
 html {
   font-family: 'Oswald', sans-serif;
 }
-html body head {
+head {
   align-self: center;
-  background-color: yellow;
+  background-color: #f6ff59;
   justify-content: center;
   justify-item: center;
 }
