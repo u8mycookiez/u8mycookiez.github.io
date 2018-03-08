@@ -1,3 +1,7 @@
 html {
   font-family: 'Oswald', sans-serif;
 }
+
+#entertainment-then #entertainment-now {
+  background-color: rgba(255, 255, 0, 0.66);
+}
